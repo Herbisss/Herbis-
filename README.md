@@ -1,9 +1,9 @@
 -Salve rapaziada-
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
-Meu nome é Marcelo Paludetto
+Meu nome é Herbis Domingues
 
-- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
